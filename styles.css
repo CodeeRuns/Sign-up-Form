@@ -1,3 +1,38 @@
-body {
-    background-color: green;
+section {
+    float: left;
 }
+
+.side-image {
+    display: inline-block;
+    width: 49vw;
+}
+
+.see-through {
+    height: 25%;
+    width: 25%;
+}
+
+h1 {
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    transfrom: translate(-50%, -50%);
+    color: white;
+    font-size: 15px;
+}
+
+.writing {
+    float: right;
+    display: inline-block;
+    max-width: 49vw;
+}
+
+
+.introduction {
+    background-color: beige;
+}
+
+.questions {
+    background-color: lightgray;
+}
+    */
